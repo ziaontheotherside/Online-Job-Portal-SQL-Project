@@ -1,66 +1,74 @@
-# Online Job Portal - SQL Project
+# 🏢 Online Job Portal - SQL Project (PL/SQL)
 
-This project is a PL/SQL-based database management system for an **Online Job Portal**, developed as part of the Spring 2024 Project for school. It demonstrates core database design principles, procedural SQL (PL/SQL), and effective management of data related to job postings, job applications, and user accounts.
-
----
-
-## 📚 **Project Overview**
-The goal of this project is to:
-1. Design a database schema to support the functionalities of an Online Job Portal.
-2. Insert sample data for testing.
-3. Implement individual and group features as PL/SQL procedures to manage the portal's functionality.
+This project is a **PL/SQL-based database management system** for an **Online Job Portal**, developed as part of my **Spring 2024 coursework** at **UMBC**. It demonstrates **database design principles, procedural SQL (PL/SQL), and efficient management of job-related data**.
 
 ---
 
-## 🔧 **Features Implemented**
+## 📜 **Project Overview**
+### **What This Project Does**
+✅ **Implements a database system** for managing job postings, job applications, and recruiters.  
+✅ **Designs a structured schema** to store **accounts, job posts, companies, applications, and skills**.  
+✅ **Uses PL/SQL procedures to automate functionalities**, such as job alerts and applicant scoring.  
+✅ **Tracks application progress** and **ranks applicants based on skills and experience**.  
+
+This project **demonstrates SQL database design, procedural programming (PL/SQL), and real-world job portal functionality**.
+
+---
+
+## 🛠 **Key Skills Demonstrated**
+- **SQL Development**: Schema design, stored procedures, data queries.
+- **PL/SQL Procedures**: Automated job alerts, applicant ranking, and status updates.
+- **Database Normalization**: Efficiently structured tables with **foreign key relationships**.
+- **Data Processing & Queries**: Complex SQL queries for applicant tracking.
+- **Enterprise Database Management**: Simulating a **real-world job portal system**.
+
+---
+
+## 🔹 **Implemented Features**
 ### **Individual Features**
-1. **Add Account**  
-   Adds a new user account or updates existing account details if a duplicate phone number exists.
-   
-2. **Add Company**  
-   Adds a new company or detects duplicates and prevents multiple entries.
-
-3. **Search Job Posts**  
-   Searches for active job posts by keyword, job type, and location.
-
-4. **Apply for Job**  
-   Allows job seekers to submit applications for specific job posts.
-
-5. **List Applications for a Job Post**  
-   Displays all applicants for a job post, including their account details, skills, and work experience.
+✅ **Add Account** – Registers new users (job seekers and recruiters).  
+✅ **Add Company** – Stores company details and prevents duplicate entries.  
+✅ **Search Job Posts** – Searches active job postings by **keyword, job type, and location**.  
+✅ **Apply for Job** – Allows job seekers to submit applications.  
+✅ **List Applications** – Displays all applicants for a specific job post.
 
 ### **Group Features**
-1. **Add Job Post**  
-   Enables recruiters to post job openings, including required skills and qualifications.
-
-2. **Generate Job Alerts**  
-   Sends notifications to qualified job seekers for matching job postings.
-
-3. **Assign Initial Score to Applicants**  
-   Ranks job applicants based on their qualifications, skills, and work experience.
-
-4. **Update Application Status**  
-   Tracks and updates the status of job applications, such as submission, acceptance, or rejection.
-
-5. **Print Statistics**  
-   Generates system-wide statistics, such as the number of active job posts, recruiters, and job seekers.
+✅ **Add Job Post** – Recruiters can post job openings with required skills.  
+✅ **Generate Job Alerts** – Notifies job seekers of relevant postings.  
+✅ **Assign Initial Score** – Automatically ranks applicants based on **qualifications & experience**.  
+✅ **Update Application Status** – Tracks submissions, rejections, and acceptances.  
+✅ **Print Statistics** – Reports the **number of active job posts, recruiters, and applicants**.
 
 ---
 
-## 🗃️ **Database Schema**
-The database includes the following key entities:
-
-1. **Accounts**: Stores user account details (job seekers and recruiters).
-2. **Companies**: Stores information about companies posting jobs.
-3. **Job Posts**: Details about job openings, including requirements and pay ranges.
-4. **Applications**: Tracks job applications and their statuses.
-5. **Skills**: Manages the skills of job seekers and job requirements.
-6. **Messages**: Stores messages sent to users, such as job alerts.
+## 📜 **Database Schema**
+This project uses **relational database design** with the following tables:
+- **Accounts** – Stores user details (job seekers & recruiters).
+- **Companies** – Stores company information.
+- **Job Posts** – Details about job openings.
+- **Applications** – Tracks job applications and statuses.
+- **Skills** – Manages job seeker skills and job requirements.
+- **Messages** – Stores system-generated messages (e.g., job alerts).
 
 ---
 
-## 🚀 **How to Run**
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/Online-Job-Portal-SQL-Project.git
-   cd Online-Job-Portal-SQL-Project
+## 🚀 **Why This Matters**
+This project highlights my ability to:
+✔️ **Design efficient database schemas** for real-world applications.  
+✔️ **Write advanced SQL & PL/SQL procedures** for automation.  
+✔️ **Optimize job search and applicant tracking workflows**.  
+
+It showcases skills relevant to **database administration, backend development, and data analytics**.
+
+---
+
+## 📜 **Project Context**
+🚨 **This project was completed as part of UMBC's coursework.**  
+Per academic policies, sharing, copying, or distributing solutions is strictly prohibited.
+
+---
+
+### ✨ **Final Thoughts**
+The **Online Job Portal SQL Project** is a **PL/SQL-based system that manages job applications efficiently**.  
+
+If you’re interested in my **SQL & database management skills**, feel free to connect! 🚀😊
