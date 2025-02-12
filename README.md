@@ -54,6 +54,7 @@ This project uses **relational database design** with the following tables:
 
 ## 🚀 **Why This Matters**
 This project highlights my ability to:
+
 ✔️ **Design efficient database schemas** for real-world applications.  
 ✔️ **Write advanced SQL & PL/SQL procedures** for automation.  
 ✔️ **Optimize job search and applicant tracking workflows**.  
