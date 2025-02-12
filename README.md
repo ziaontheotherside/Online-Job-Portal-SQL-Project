@@ -70,6 +70,4 @@ Per academic policies, sharing, copying, or distributing solutions is strictly p
 ---
 
 ### ✨ **Final Thoughts**
-The **Online Job Portal SQL Project** is a **PL/SQL-based system that manages job applications efficiently**.  
-
 If you’re interested in my **SQL & database management skills**, feel free to connect! 🚀😊
